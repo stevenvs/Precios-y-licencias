@@ -1,5 +1,5 @@
 # Precios-y-licencias
-¿Dónde se pueden ver precios y licencias?
+1. ¿Dónde se pueden ver precios y licencias?
 Las caracteristicas de cada edicion se puden ver en esta pagina https://www.microsoft.com/es-es/windows-server/pricing  
 
 ¿Cuantos Windows Server se pueden instalar con una licencia?
